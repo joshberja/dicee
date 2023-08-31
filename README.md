@@ -15,7 +15,7 @@ Dicee game. Roll the dice by refreshing the page. This project focuses on manipu
 
 ### Demo
 
-![Video Demo](./demo/dicee-preview-3360x2050.gif)
+![](./demo/dicee-preview-3360x2050.gif)
 
 ### Links
 
