@@ -15,7 +15,7 @@ function dynamicDiceImage(randomNumber) {
 var playerOneNumber = randomNumberGenerator();
 var playerTwoNumber = randomNumberGenerator();
 
-// We need to have each player call the dynamicDiceImage source and store it in their respective varibles
+// We need to have each player call the dynamicDiceImage source and store it in their respective variables
 var playerOneDice = dynamicDiceImage(playerOneNumber);
 // console.log("playerOneDice image source: " + playerOneDice);
 var playerTwoDice = dynamicDiceImage(playerTwoNumber);
